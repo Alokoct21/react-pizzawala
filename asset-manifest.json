@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/react-pizzawala/static/css/main.5dcf5312.css",
-    "main.js": "/react-pizzawala/static/js/main.8668db66.js",
+    "main.js": "/react-pizzawala/static/js/main.0ce58773.js",
     "static/media/pizzaLeft.jpg": "/react-pizzawala/static/media/pizzaLeft.24b07891fef1c8dae848.jpg",
     "static/media/vegan.jpg": "/react-pizzawala/static/media/vegan.52cbfe9e6f8d75e18f8b.jpg",
     "static/media/pizza.jpeg": "/react-pizzawala/static/media/pizza.21a1098fa87e28d80f37.jpeg",
@@ -14,10 +14,10 @@
     "static/media/pedrotechspecial.jpg": "/react-pizzawala/static/media/pedrotechspecial.425951cb0e484775fd4c.jpg",
     "index.html": "/react-pizzawala/index.html",
     "main.5dcf5312.css.map": "/react-pizzawala/static/css/main.5dcf5312.css.map",
-    "main.8668db66.js.map": "/react-pizzawala/static/js/main.8668db66.js.map"
+    "main.0ce58773.js.map": "/react-pizzawala/static/js/main.0ce58773.js.map"
   },
   "entrypoints": [
     "static/css/main.5dcf5312.css",
-    "static/js/main.8668db66.js"
+    "static/js/main.0ce58773.js"
   ]
 }
