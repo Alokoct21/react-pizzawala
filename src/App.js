@@ -12,7 +12,7 @@ function App() {
     <div>
       <Router>
         <Navbar />
-        <Home/>
+        
         <Routes>
          
           <Route path="/" exact element={<Home />} />
